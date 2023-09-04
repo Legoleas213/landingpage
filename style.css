@@ -72,6 +72,11 @@
    
 }
 
+.links a{
+    color: white;
+    text-decoration: none;
+}
+
 .ord{
     display: inline-flex;
     justify-self: center;
